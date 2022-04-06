@@ -1,0 +1,50 @@
+/* General */
+body {
+  text-align: center;
+  background-color: #343A40;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 20px;
+
+}
+
+h1 {
+  font-size: 7rem;
+font-family: 'Lobster', cursive;
+}
+
+h2 {
+  padding: 0 0 8%
+}
+
+.container-fluid {
+  padding: 2% 27%
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+.dice {
+  width:200px;
+  height:200px;
+  border-radius: 10px;
+
+}
+button{
+font-size: 2rem;
+  width: 10%;
+padding: .5%;
+  transition-duration: 0.4s;
+  background-color:black; /* Green */
+ border: none;
+ color: white;
+ border-radius: 5%;
+ font-weight: bold;
+
+
+ text-decoration: none;
+
+}
+button:hover {
+  background-color: #FF1818; /* Green */
+
+}
